@@ -1,5 +1,6 @@
 # IPInfo
 IPInfo was created to aid in getting relevant information about an IP and its subnet. 
+[Download the newest release](https://github.com/kvizdos/ipinfo/releases/tag/v1.0.0)
 
 ## Currently returned by IPInfo:
 - Subnet mask
